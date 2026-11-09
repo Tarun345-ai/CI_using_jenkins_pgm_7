@@ -3,7 +3,7 @@ public class test {
         String name = "Alice";
         int age = 25;
         double score = 89.55;
-        String usn = "4VV24CSXXX"
+        String usn = "4VV24CSXXX";
 
         System.out.printf("Name: %s%n", name);
         System.out.printf("USN: %s%n", usn);
